@@ -1,2 +1,2 @@
-# desafio-dio-git-github
-Desafio de projeto sobre Git/GitHub
+# everis New Talents #2 Java
+Bootcamp everis Java/GitHub
